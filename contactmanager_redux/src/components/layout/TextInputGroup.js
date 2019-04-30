@@ -17,13 +17,14 @@ const TextInputGroup = ({
       <input
         type={type}
         name={name}
-        className={classnames('form-control form-control-lg', {'is-invalid': error})}
+        className={classnames('form-control form-control-lg', {
+          'is-invalid': error
+        })}
         placeholder={placeholder}
         value={value}
         onChange={onChange}
       />
       {error && <div className="invalid-feedback">{error}</div>}
-
     </div>
   );
 };
@@ -31,15 +32,15 @@ const TextInputGroup = ({
 TextInputGroup.propTypes = {
   label: PropTypes.string.isRequired,
   name: PropTypes.string.isRequired,
-  value: PropTypes.string.isRequired,
   placeholder: PropTypes.string.isRequired,
+  value: PropTypes.string.isRequired,
   type: PropTypes.string.isRequired,
   onChange: PropTypes.func.isRequired,
   error: PropTypes.string
-}
+};
 
 TextInputGroup.defaultProps = {
   type: 'text'
-}
+};
 
 export default TextInputGroup;
