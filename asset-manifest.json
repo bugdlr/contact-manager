@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/bugdlr/contact-manager/static/css/main.36497136.chunk.css",
+    "main.js": "/bugdlr/contact-manager/static/js/main.1e14946c.chunk.js",
+    "main.js.map": "/bugdlr/contact-manager/static/js/main.1e14946c.chunk.js.map",
+    "runtime~main.js": "/bugdlr/contact-manager/static/js/runtime~main.c5a9220b.js",
+    "runtime~main.js.map": "/bugdlr/contact-manager/static/js/runtime~main.c5a9220b.js.map",
+    "static/css/2.b9dc5a1e.chunk.css": "/bugdlr/contact-manager/static/css/2.b9dc5a1e.chunk.css",
+    "static/js/2.d3283c91.chunk.js": "/bugdlr/contact-manager/static/js/2.d3283c91.chunk.js",
+    "static/js/2.d3283c91.chunk.js.map": "/bugdlr/contact-manager/static/js/2.d3283c91.chunk.js.map",
+    "index.html": "/bugdlr/contact-manager/index.html",
+    "precache-manifest.b1e2f01a46b2da7b448eedf4510056e5.js": "/bugdlr/contact-manager/precache-manifest.b1e2f01a46b2da7b448eedf4510056e5.js",
+    "service-worker.js": "/bugdlr/contact-manager/service-worker.js",
+    "static/css/2.b9dc5a1e.chunk.css.map": "/bugdlr/contact-manager/static/css/2.b9dc5a1e.chunk.css.map",
+    "static/css/main.36497136.chunk.css.map": "/bugdlr/contact-manager/static/css/main.36497136.chunk.css.map"
+  }
+}
